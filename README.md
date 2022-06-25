@@ -5,4 +5,5 @@ The python programme made to detect faces of cartoon (that look alike humans).
  #In order to run the code on your computer, first paste all the images in a folder named faces or change the route in face_rec.py
  #Download all the dependcies by writing "pip install -r requirements.txt" in your command line
  #Note: Make sure you have python 64 Bit and VS Code having C++ compiler enabled to be able to run the code
- #Once you are done, simply write python face_rec.py and here you go to find Is She is Cindrella you are looking for :)!!
+ #Once you are done, simply write "python face_rec.py" in your cmd prompt and here you go to find Is She is Cindrella you are looking for :)!!
+ #to stop the program i hope you know what we write, right?;)..yeah "Ctrl+c" in command prompt!!
